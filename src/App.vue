@@ -170,7 +170,7 @@ body {
     position: absolute;
     top: 1em;
     /* right: 49em; */
-    left: 36em;
+    left: 25em;
     width: 69px
 }
 @media only screen and (max-width: 600px) {
